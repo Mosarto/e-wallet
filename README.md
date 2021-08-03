@@ -1,6 +1,6 @@
 # ₿ E-Wallet App ₿
 
-Project created to replicate design made by [Rostislav Popov](https://dribbble.com/RostislavPopov) 😃 .
+Project created to replicate design made by [Rostislav Popov](https://dribbble.com/RostislavPopov) 😃.
 <br/><br/>
 
 ## Demo:
